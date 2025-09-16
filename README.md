@@ -6,7 +6,7 @@ Este repositório documenta a arquitetura de um site dinâmico hospedado na AWS,
 
 ## Diagrama da Arquitetura
 
-![Diagrama da Arquitetura do Site Dinâmico](Diagrama_DIO.png)
+![Diagrama da Arquitetura do Site Dinâmico](Diagrama_DIO.jpeg)
 
 ## Componentes da Arquitetura
 
