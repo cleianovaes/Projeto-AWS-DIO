@@ -4,6 +4,10 @@ Este repositório documenta a arquitetura de um site dinâmico hospedado na AWS,
 
 ---
 
+## Diagrama da Arquitetura
+
+<br>
+
 ## Componentes da Arquitetura
 
 Este projeto utiliza os seguintes serviços da AWS, cada um com um papel específico no funcionamento da aplicação:
@@ -26,3 +30,4 @@ O diagrama visualiza o seguinte fluxo de dados:
 2.  O *Route 53* direciona a requisição para o *Gateway de Internet, permitindo que ela entre na sua **VPC*.
 3.  Dentro da VPC, o *Firewall Virtual (Security Group)* verifica se a requisição é segura.
 4.  Se for aprovada, a requisição chega ao *Servidor Web (EC2), que usa o **Disco de Armazenamento (EBS)* para carregar a página e enviá-la de volta ao usuário.
+   
