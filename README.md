@@ -4,12 +4,6 @@ Este repositório documenta a arquitetura de um site dinâmico hospedado na Amaz
 
 ---
 
-## Diagrama da Arquitetura
-
-<br>
-
----
-
 ## Componentes da Arquitetura
 
 Este projeto utiliza os seguintes serviços da AWS, cada um com um papel específico no funcionamento da aplicação:
