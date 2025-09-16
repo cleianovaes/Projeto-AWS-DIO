@@ -1,6 +1,6 @@
 # Projeto de Arquitetura AWS: Site Dinâmico
 
-Este repositório documenta a arquitetura de um site dinâmico hospedado na Amazon Web Services (AWS), utilizando serviços essenciais de computação e rede.
+Este repositório documenta a arquitetura de um site dinâmico hospedado na AWS, utilizando serviços essenciais de computação e rede.
 
 ---
 
