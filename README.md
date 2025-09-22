@@ -37,7 +37,7 @@ Este projeto utiliza os seguintes serviços da AWS, cada um com um papel especí
 
 O diagrama abaixo ilustra os componentes e sua interação na arquitetura do site dinâmico hospedado na AWS:  
 
-![Diagrama de Arquitetura](./diagrama.png)  
+![Diagrama de Arquitetura](./Diagrama_DIO.jpeg)  
 
 ---
 
